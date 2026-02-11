@@ -7,6 +7,7 @@
 - [Abstract Syntax Tree (AST)](#Abstract-Syntax-Tree-(AST))
 - [Interpreter နဲ့ Compiler](#interpreter-နဲ့-compiler)
 - [UML](#UML)
+- [Use Case Diagram](#use-case-diagram)
 
 ## Vite
 
@@ -306,7 +307,7 @@ UML ဆိုတာ code မဟုတ်ပါဘူး၊ code မရေးခ�
 * Use Case Diagram ဆိုတာ စနစ်တစ်ခု (System) နဲ့ အဲဒီစနစ်ကို အသုံးပြုမယ့်သူ (Users/Actors) ကြားက
 ဆက်သွယ်ဆောင်ရွက်ချက်တွေကို ရုပ်ပုံနဲ့ ဖော်ပြတာ ဖြစ်ပါတယ်။
 
-ဒါဟာ "ဒီ System က ဘာတွေလုပ်ပေးနိုင်လဲ?" ဆိုတဲ့ မေးခွန်းကို အဖြေထုတ်ပေးတဲ့ အပြာပုံ (Blueprint) တစ်ခုပါပဲ။
+ဒါဟာ "ဒီ System က ဘာတွေလုပ်ပေးနိုင်လဲ?" ဆိုတဲ့ မေးခွန်းကို အဖြေထုတ်ပေးတဲ့  (Blueprint) တစ်ခုပါပဲ။
 
 ၁။ Use Case Diagram မှာပါဝင်တဲ့ အဓိက အစိတ်အပိုင်း (၄) ခု
 
